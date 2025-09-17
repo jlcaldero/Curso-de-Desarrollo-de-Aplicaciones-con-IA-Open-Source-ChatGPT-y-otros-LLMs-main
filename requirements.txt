@@ -1,0 +1,15 @@
+fastapi
+pydantic
+langchain_openai
+pandas
+python-dotenv
+httpx
+uvicorn
+aiofiles
+docarray
+openai
+langchain
+panel
+openai
+langchain-community
+chromadb
